@@ -1,6 +1,6 @@
 streamlit
-tensorflow
-keras
+tensorflow==2.21.0
+keras==3.13.2
 opencv_python_headless
 gdown
 ipykernel
